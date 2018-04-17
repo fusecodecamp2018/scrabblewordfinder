@@ -8,4 +8,20 @@ Plan
 4.) Intro to terminal, basic navigation
 5.) Intro to Ruby, basic script execution
 6.) BREAK - activity? (not "official" break, just something fun)
-7.)
+7.) The rest of it
+8.) Lesson review
+9.) Open-forum discussion on technology and programming - 15/20 minutes
+10.) Show and Tell
+    * 1 kid volunteer to show off script
+    * Scrabble tile bag - have 7 kids select a random tile
+    * Use those 7 letters to generate best word
+
+=== Notes ====
+* For code, do verbal test-driven development (not writing tests, but talking about expected outputs)
+
+TODO
+* purchase scrabble - aaron
+* interim break activities - both
+* assignments? - both
+* how to break-up code - Lavan
+* take-home activities - aaron
